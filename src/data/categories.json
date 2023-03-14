@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "id": "recxdDH7aSqjZZA9b",
+            "Name": "Infrastructure",
+            "Sort Order": 1,
+            "Color": "gold"
+        },
+        {
+            "id": "reccsDBDk22oQXsAs",
+            "Name": "Analytics",
+            "Sort Order": 2,
+            "Color": "red"
+        },
+        {
+            "id": "recrAqXmw72gb32V5",
+            "Name": "Machine Learning & Artificial Intelligence",
+            "Sort Order": 3,
+            "Color": "blue"
+        },
+        {
+            "id": "recr2hh5bFoSbrkmJ",
+            "Name": "Applications - Enterprise",
+            "Sort Order": 4,
+            "Color": "purple"
+        },
+        {
+            "id": "recH4eV7b3RLJzk9S",
+            "Name": "Applications - Horizontal",
+            "Sort Order": 5,
+            "Color": "purple"
+        },
+        {
+            "id": "recrtcsqKF61puOyL",
+            "Name": "Applications - Industry",
+            "Sort Order": 6,
+            "Color": "purple"
+        },
+        {
+            "id": "rec6pS9qFgNv8bkNn",
+            "Name": "Open Source Infrastructure",
+            "Sort Order": 7,
+            "Color": "green"
+        },
+        {
+            "id": "rec6wqQvYv6wFA1UN",
+            "Name": "Data Sources & APIs",
+            "Sort Order": 8,
+            "Color": "teal"
+        },
+        {
+            "id": "rec4dmGEn3LQOizMO",
+            "Name": "Data & AI Consulting",
+            "Sort Order": 9,
+            "Color": "navy"
+        }
+    ]
+}

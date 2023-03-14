@@ -1,0 +1,592 @@
+{
+    "subCategories": [
+        {
+            "id": "rec0SRi4qFFOqKlXn",
+            "Name": "Fully Managed",
+            "Label": "Fully Managed",
+            "Sort Order": 20
+        },
+        {
+            "id": "rec23DDS6ZEcmOnj3",
+            "Name": "Life Sciences",
+            "Label": "Life Sciences",
+            "Sort Order": 66
+        },
+        {
+            "id": "rec2NhLfjhmUAs5Ta",
+            "Name": "GPU Databases",
+            "Label": "GPU Databases",
+            "Sort Order": 11
+        },
+        {
+            "id": "rec36ZjpPrEFbh2Vr",
+            "Name": "MLOps",
+            "Label": "MLOps",
+            "Sort Order": 37
+        },
+        {
+            "id": "rec3rydlPRbTWpodG",
+            "Name": "Collaboration",
+            "Label": "Collaboration",
+            "Sort Order": 89
+        },
+        {
+            "id": "rec3wy9e8Q1sYc0Xk",
+            "Name": "Customer Data Platforms",
+            "Label": "Customer Data Platforms",
+            "Sort Order": 27
+        },
+        {
+            "id": "rec4neyG3olQUjFwB",
+            "Name": "AI Frameworks & Libraries",
+            "Label": "AI Frameworks & Libraries",
+            "Sort Order": 84,
+            "Min Width": 750
+        },
+        {
+            "id": "rec5GRn3aAVDa6RfP",
+            "Name": "Transportation",
+            "Label": "Transportation",
+            "Sort Order": 67
+        },
+        {
+            "id": "rec5HHAsNBME7dcSx",
+            "Name": "Logging & Monitoring",
+            "Label": "Logging & Monitoring",
+            "Sort Order": 87
+        },
+        {
+            "id": "rec6UyZQMoSzU7mbg",
+            "Name": "Video Generation",
+            "Label": "Video Generation",
+            "Sort Order": 61
+        },
+        {
+            "id": "rec6pnIJ4IdAENrfh",
+            "Name": "Analytics - Visualization",
+            "Label": "Visualization",
+            "Sort Order": 25,
+            "Min Width": 0
+        },
+        {
+            "id": "rec6qXIqOiTs0hcUD",
+            "Name": "Data Analyst Platforms",
+            "Label": "Data Analyst Platforms",
+            "Sort Order": 26,
+            "Min Width": 450
+        },
+        {
+            "id": "rec7OGBuH7z873Pgl",
+            "Name": "Data Lakes/Lakehouses",
+            "Label": "Data Lakes/Lakehouses",
+            "Sort Order": 3,
+            "Min Width": 300
+        },
+        {
+            "id": "rec7qoEwLE4qZJW4q",
+            "Name": "Storage",
+            "Label": "Storage",
+            "Sort Order": 1,
+            "Min Width": 450
+        },
+        {
+            "id": "rec8VLrSw9QQEa1uP",
+            "Name": "Streaming & Messaging",
+            "Label": "Streaming & Messaging",
+            "Sort Order": 81
+        },
+        {
+            "id": "rec9PvNSW7vjVzvEe",
+            "Name": "Data Quality & Observability",
+            "Label": "Data Quality & Observability",
+            "Sort Order": 19
+        },
+        {
+            "id": "rec9sicw0k1qwVYn9",
+            "Name": "Finance & Insurance",
+            "Label": "Finance & Insurance",
+            "Sort Order": 64
+        },
+        {
+            "id": "recAkWDQAhzpKXnaJ",
+            "Name": "Human Capital",
+            "Label": "Human Capital",
+            "Sort Order": 49
+        },
+        {
+            "id": "recBrG2P6Zbk8OKjc",
+            "Name": "Real Time Databases",
+            "Label": "Real Time Databases",
+            "Sort Order": 9
+        },
+        {
+            "id": "recC9MzrYSQNAl46E",
+            "Name": "ESG",
+            "Label": "ESG",
+            "Sort Order": 95
+        },
+        {
+            "id": "recCjW5VGRo9kP9rL",
+            "Name": "BI Platforms",
+            "Label": "BI Platforms",
+            "Sort Order": 24,
+            "Min Width": 450
+        },
+        {
+            "id": "recEEwLIgt2ujp89L",
+            "Name": "Financial & Market Data",
+            "Label": "Financial & Market Data",
+            "Sort Order": 91,
+            "Min Width": 2200
+        },
+        {
+            "id": "recEVjS1t0c71AKn9",
+            "Name": "Log Analytics",
+            "Label": "Log Analytics",
+            "Sort Order": 29
+        },
+        {
+            "id": "recF78C1OB6dVqbiL",
+            "Name": "AI Models & Architectures",
+            "Label": "AI Models & Architectures",
+            "Sort Order": 85,
+            "Min Width": 1000
+        },
+        {
+            "id": "recFneyBPhQVC3Kmx",
+            "Name": "Compute",
+            "Label": "Compute",
+            "Sort Order": 23
+        },
+        {
+            "id": "recGhGOmxA3oJ0h2i",
+            "Name": "Legal",
+            "Label": "Legal",
+            "Sort Order": 52
+        },
+        {
+            "id": "recGv92EdWxVZoZ84",
+            "Name": "NoSQL Databases",
+            "Label": "NoSQL Databases",
+            "Sort Order": 7
+        },
+        {
+            "id": "recHsXFoGFxPoimF0",
+            "Name": "Data Science Notebooks",
+            "Label": "Data Science Notebooks",
+            "Sort Order": 33
+        },
+        {
+            "id": "recI5vZhGJmZ2GhCL",
+            "Name": "Open Source Infra - Search",
+            "Label": "Search",
+            "Sort Order": 86
+        },
+        {
+            "id": "recICBH0DQF0TDQdr",
+            "Name": "Product Analytics",
+            "Label": "Product Analytics",
+            "Sort Order": 28
+        },
+        {
+            "id": "recJaaH7hrkaPcng2",
+            "Name": "RDBMs",
+            "Label": "RDBMs",
+            "Sort Order": 6
+        },
+        {
+            "id": "recKSAKte0gj6Vcki",
+            "Name": "AI Hardware",
+            "Label": "AI Hardware",
+            "Sort Order": 42
+        },
+        {
+            "id": "recLClrNwDcfsgVDl",
+            "Name": "Customer Experience",
+            "Label": "Customer Experience",
+            "Sort Order": 48
+        },
+        {
+            "id": "recLIBdKjYFsPIMki",
+            "Name": "Enterprise Search",
+            "Label": "Enterprise Search",
+            "Sort Order": 32
+        },
+        {
+            "id": "recNGGOHMFGfSbJ3k",
+            "Name": "Vector Databases",
+            "Label": "Vector Databases",
+            "Sort Order": 12
+        },
+        {
+            "id": "recNiISh1VoBI4dwO",
+            "Name": "Industrial & Logistics",
+            "Label": "Industrial & Logistics",
+            "Sort Order": 69
+        },
+        {
+            "id": "recNyBduKyOdZqDxt",
+            "Name": "Infrastructure",
+            "Label": "Infrastructure",
+            "Sort Order": 79
+        },
+        {
+            "id": "recO09lbazQB7dVwf",
+            "Name": "Crypto & Web 3 Analytics",
+            "Label": "Crypto & Web 3 Analytics",
+            "Sort Order": 30
+        },
+        {
+            "id": "recObbIHL4028o0Ff",
+            "Name": "Data Ops",
+            "Label": "Data Ops",
+            "Sort Order": 80
+        },
+        {
+            "id": "recOoH9sErCBdkwAk",
+            "Name": "Data & AI Consulting",
+            "Label": "Data & AI Consulting",
+            "Sort Order": 96
+        },
+        {
+            "id": "recPfw9FGKJfeem2S",
+            "Name": "Data Access",
+            "Label": "Data Access",
+            "Sort Order": 75
+        },
+        {
+            "id": "recR9m3h2jcNXQkFp",
+            "Name": "OLAP",
+            "Label": "OLAP",
+            "Sort Order": 77
+        },
+        {
+            "id": "recU4ERIUXQNSkBJJ",
+            "Name": "Audio & Voice",
+            "Label": "Audio & Voice",
+            "Sort Order": 58
+        },
+        {
+            "id": "recUE6a1qB83wlzbq",
+            "Name": "NewSQL Databases",
+            "Label": "NewSQL Databases",
+            "Sort Order": 8
+        },
+        {
+            "id": "recUJFlE2NjTDRBke",
+            "Name": "MPP DBs",
+            "Label": "MPP DBs",
+            "Sort Order": 2
+        },
+        {
+            "id": "recUR4xZ6P8XZkOEX",
+            "Name": "Streaming/In-Memory",
+            "Label": "Streaming/In-Memory",
+            "Sort Order": 5,
+            "Min Width": 600
+        },
+        {
+            "id": "recV1d2dz8WBeeTHD",
+            "Name": "Partnerships",
+            "Label": "Partnerships",
+            "Sort Order": 53
+        },
+        {
+            "id": "recVEuzJMR00kbl8C",
+            "Name": "Agriculture",
+            "Label": "Agriculture",
+            "Sort Order": 68
+        },
+        {
+            "id": "recWLdrrNzvW4LExl",
+            "Name": "Closed Source Models",
+            "Label": "Closed Source Models",
+            "Sort Order": 45,
+            "Min Width": 1200
+        },
+        {
+            "id": "recZS175pSdfiT6aI",
+            "Name": "Open Source Infra - Visualizations",
+            "Label": "Visualization",
+            "Sort Order": 88
+        },
+        {
+            "id": "reca04LpUGpd3xrUg",
+            "Name": "Gov't & Intelligence",
+            "Label": "Gov't & Intelligence",
+            "Sort Order": 70
+        },
+        {
+            "id": "recb9PG3trWlbFGIC",
+            "Name": "Cross-Industry",
+            "Label": "Cross-Industry",
+            "Sort Order": 71
+        },
+        {
+            "id": "reccLdA0kDJN0yCzo",
+            "Name": "Data Governance & Catalog",
+            "Label": "Data Governance & Catalog",
+            "Sort Order": 17
+        },
+        {
+            "id": "recdRNLWaU95VoEj3",
+            "Name": "MLOps & AI Infra",
+            "Label": "MLOps & AI Infra",
+            "Sort Order": 83
+        },
+        {
+            "id": "recdXXVaVN13DvHFk",
+            "Name": "GPU Cloud",
+            "Label": "GPU Cloud",
+            "Sort Order": 43,
+            "Min Width": 150
+        },
+        {
+            "id": "recdftaiRuRMJ1mgk",
+            "Name": "Format",
+            "Label": "Format",
+            "Sort Order": 73
+        },
+        {
+            "id": "recdpFQYjFRUZ7vBJ",
+            "Name": "Reverse ETL",
+            "Label": "Reverse ETL",
+            "Sort Order": 15
+        },
+        {
+            "id": "recedfVBLVT7Lt96K",
+            "Name": "Air/Space/Sea",
+            "Label": "Air/Space/Sea",
+            "Sort Order": 92
+        },
+        {
+            "id": "recfwnGgxh21FFXVH",
+            "Name": "MGMT/Monitoring",
+            "Label": "MGMT/Monitoring",
+            "Sort Order": 21
+        },
+        {
+            "id": "recg0F9HalNzsjqlV",
+            "Name": "Stat Tools & Languages",
+            "Label": "Stat Tools & Languages",
+            "Sort Order": 82
+        },
+        {
+            "id": "recgWbMKo6jECiOPT",
+            "Name": "Privacy & Security",
+            "Label": "Privacy & Security",
+            "Sort Order": 22
+        },
+        {
+            "id": "recgk51u4KBLZ3KfA",
+            "Name": "People/Entities",
+            "Label": "People/Entities",
+            "Sort Order": 93
+        },
+        {
+            "id": "rechPcKzZDfh0mBau",
+            "Name": "Finance",
+            "Label": "Finance",
+            "Sort Order": 55
+        },
+        {
+            "id": "rechiAmZpqCisYQfa",
+            "Name": "Healthcare",
+            "Label": "Healthcare",
+            "Sort Order": 65
+        },
+        {
+            "id": "recjmMtyR7rIP6L1F",
+            "Name": "Open Source - Orchestration",
+            "Label": "Orchestration",
+            "Sort Order": 78
+        },
+        {
+            "id": "reckZcOPgbJpkafFI",
+            "Name": "Query Engine",
+            "Label": "Query Engine",
+            "Sort Order": 31
+        },
+        {
+            "id": "reckl7lBcOjn9GF9l",
+            "Name": "Graph DBs",
+            "Label": "Graph DBs",
+            "Sort Order": 10
+        },
+        {
+            "id": "reclHDJaxS2xehDjl",
+            "Name": "Databases",
+            "Label": "Databases",
+            "Sort Order": 76
+        },
+        {
+            "id": "reclk8RLkDZ1lZvgV",
+            "Name": "Regtech & Compliance",
+            "Label": "Regtech & Compliance",
+            "Sort Order": 54
+        },
+        {
+            "id": "recm5dGcNCB2Hcg6u",
+            "Name": "Search",
+            "Label": "Search",
+            "Sort Order": 63
+        },
+        {
+            "id": "recmY34HFP508I8ly",
+            "Name": "Speech",
+            "Label": "Speech",
+            "Sort Order": 39
+        },
+        {
+            "id": "recmgkiWcXb8kOPMy",
+            "Name": "ETL/ELT/Data Transformation",
+            "Label": "ETL/ELT/Data Transformation",
+            "Sort Order": 14
+        },
+        {
+            "id": "recmwKRC3CNz1jJ8v",
+            "Name": "Image",
+            "Label": "Image",
+            "Sort Order": 59
+        },
+        {
+            "id": "recnC7fpun3EyUkIl",
+            "Name": "Sales",
+            "Label": "Sales",
+            "Sort Order": 46
+        },
+        {
+            "id": "recnIyl89zQM6kUGv",
+            "Name": "Edge AI",
+            "Label": "Edge AI",
+            "Sort Order": 44
+        },
+        {
+            "id": "recnOYlCktYjFYIjT",
+            "Name": "Data Integration",
+            "Label": "Data Integration",
+            "Sort Order": 16
+        },
+        {
+            "id": "recnTB33EGUdvnPv0",
+            "Name": "Frameworks",
+            "Label": "Frameworks",
+            "Sort Order": 72
+        },
+        {
+            "id": "recnwjP1uVXZMDkkO",
+            "Name": "Database Abstraction",
+            "Label": "Database Abstraction",
+            "Sort Order": 13
+        },
+        {
+            "id": "recp3LFqnRUZ4ujNe",
+            "Name": "Data Science Platforms",
+            "Label": "Data Science Platforms",
+            "Sort Order": 34
+        },
+        {
+            "id": "recp8bSZEE2fWEWED",
+            "Name": "Location Intelligence",
+            "Label": "Location Intelligence",
+            "Sort Order": 94
+        },
+        {
+            "id": "recpFclxYLTUQ3khn",
+            "Name": "NLP",
+            "Label": "NLP",
+            "Sort Order": 40
+        },
+        {
+            "id": "recpQsghz771y9le3",
+            "Name": "Data Marketplaces & Discovery",
+            "Label": "Data Marketplaces & Discovery",
+            "Sort Order": 90
+        },
+        {
+            "id": "recpg9ydFPHPhB4Jc",
+            "Name": "Horizontal AI/AGI",
+            "Label": "Horizontal AI/AGI",
+            "Sort Order": 41
+        },
+        {
+            "id": "recqNQqpcWVgLROT4",
+            "Name": "Video Editing",
+            "Label": "Video Editing",
+            "Sort Order": 60
+        },
+        {
+            "id": "recsNegCw6qyVCXVU",
+            "Name": "Text",
+            "Label": "Text",
+            "Sort Order": 57
+        },
+        {
+            "id": "rectAN6daM3fXr0QR",
+            "Name": "Code & Documentation",
+            "Label": "Code & Documentation",
+            "Sort Order": 56
+        },
+        {
+            "id": "rectjGojCOPDnxtZt",
+            "Name": "Animation & 3D",
+            "Label": "Animation & 3D",
+            "Sort Order": 62
+        },
+        {
+            "id": "recuRxuhkjgRPZ7Hi",
+            "Name": "Infrastructure - Orchestration",
+            "Label": "Orchestration",
+            "Sort Order": 18
+        },
+        {
+            "id": "recvzDfigWzr87eXQ",
+            "Name": "Data Generation & Labelling",
+            "Label": "Data Generation & Labelling",
+            "Sort Order": 36
+        },
+        {
+            "id": "recwHQOloywtaco48",
+            "Name": "Marketing",
+            "Label": "Marketing",
+            "Sort Order": 47
+        },
+        {
+            "id": "recxiA4y8Di5H80Nj",
+            "Name": "Query/Dataflow",
+            "Label": "Query/Dataflow",
+            "Sort Order": 74
+        },
+        {
+            "id": "recyGaOYjso0Tc4Q1",
+            "Name": "Computer Vision",
+            "Label": "Computer Vision",
+            "Sort Order": 38
+        },
+        {
+            "id": "reczICew2q9n06v1z",
+            "Name": "Automation & Operations",
+            "Label": "Automation & Operations",
+            "Sort Order": 50
+        },
+        {
+            "id": "reczORl2ISwO91Uwl",
+            "Name": "Data Warehouses",
+            "Label": "Data Warehouses",
+            "Sort Order": 4,
+            "Min Width": 300
+        },
+        {
+            "id": "recziYOpwCoCNsfIQ",
+            "Name": "Enterprise ML Platforms",
+            "Label": "Enterprise ML Platforms",
+            "Sort Order": 35
+        },
+        {
+            "id": "reczw46ANkskmHN9v",
+            "Name": "Decision & Optimization",
+            "Label": "Decision & Optimization",
+            "Sort Order": 51
+        }
+    ]
+}
