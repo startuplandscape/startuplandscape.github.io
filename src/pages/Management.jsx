@@ -9,11 +9,12 @@ import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
 // import Banner from '../partials/Banner';
 
-import companies from '../data/companies.json';
+// import companies from '../data/companies.json';
 // import categories from '../data/categories.json';
 // import subcategories from '../data/subcategories.json';
 
-function AiMl() {
+function Management() {
+  const data = [];
   const columns = useMemo(
     () => [
       {
@@ -94,14 +95,14 @@ function AiMl() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">AI/ML Startup Landscape</h1>
-                <p className="text-lg text-gray-400 text-center">Empowering the Future of Intelligence: Explore the Cutting-Edge AI/ML Startup Landscape with Us!</p>
+                <h1 className="h1">Cloud Management Startup Landscape</h1>
+                <p className="text-lg text-gray-400 text-center">Optimize Your Cloud Operations: Discover the Next-Generation Cloud Management Startups with Us!</p>
               </div>
 
               <ThemeProvider theme={tableTheme}>
               <MaterialReactTable
                 columns={columns}
-                data={companies.companies}
+                data={data}
                 enableColumnResizing
                 enableGrouping
                 enableStickyHeader
@@ -139,4 +140,4 @@ function AiMl() {
   );
 }
 
-export default AiMl;
+export default Management;

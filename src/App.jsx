@@ -15,6 +15,8 @@ import Home from './pages/Home';
 // import SignUp from './pages/SignUp';
 // import ResetPassword from './pages/ResetPassword';
 import AiMl from './pages/AiMl';
+import Management from './pages/Management';
+import Security from './pages/Security';
 
 function App() {
 
@@ -40,6 +42,8 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route path="/aiml" element={<AiMl />} />
+        <Route path="/security" element={<Security />} />
+        <Route path="/management" element={<Management />} />
         {/* <Route path="/security" element={<Management />} />
         <Route path="/management" element={<Management />} /> */}
         {/* <Route path="/signup" element={<SignUp />} /> */}
