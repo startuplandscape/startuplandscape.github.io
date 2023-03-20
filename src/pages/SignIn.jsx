@@ -90,7 +90,7 @@ function SignIn() {
 
       </main>
 
-      <Banner />
+      {/* <Banner /> */}
 
     </div>
   );

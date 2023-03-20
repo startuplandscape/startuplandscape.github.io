@@ -94,7 +94,7 @@ function SignUp() {
 
       </main>
 
-      <Banner />
+      {/* <Banner /> */}
 
     </div>
   );
