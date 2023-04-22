@@ -1,0 +1,146 @@
+{
+    "companies": [
+        {
+            "Company Name": "Akuity",
+            "Category": "Infrastructure",
+            "Sub Category": "Orchestration",
+            "URL": "https://akuity.io/",
+            "Description": "Akuity provides solutions that empower DevOps engineers to deliver applications more simply, more safely, and faster. It is powered by Argo, the open-source suite of Kubernetes-native application delivery software. The company was founded in 2021 and is based in Sunnyvale, California.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recuRxuhkjgRPZ7Hi"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Akuity_ii5d8s.png",
+            "Sort Index": 8,
+            "Total Funding (in Millions)": 24.5,
+            "Country": "United States",
+            "Year Founded": 2021
+        },
+        {
+            "Company Name": "Coralogix",
+            "Category": "Analytics",
+            "Sub Category": "Log Analytics",
+            "URL": "https://coralogix.com/",
+            "Description": "Coralogix provides an ML-powered log analytics platform that allows DevOps teams to autonomously manage and analyze log data in cloud applications. Engineers can narrow down hundreds of millions of logs to suspected logs, broken flows, error trends, and problematic version upgrades in order to reach time to market fast, avoid customer attrition, and accelerate their version delivery without compromising quality or stability. Coralogix allows DevOps and other engineering teams a way to observe and analyze data streams before they get indexed and/or sent to storage, giving them more flexibility to query the data in different ways and glean more insights faster. Coralogix was founded in 2014 and is based in San Francisco, California.\n",
+            "Linked Category": [
+                "reccsDBDk22oQXsAs"
+            ],
+            "Linked SubCategory": [
+                "recEVjS1t0c71AKn9"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Coralogix_xel6gf.png",
+            "Sort Index": 9,
+            "Total Funding (in Millions)": 232.05,
+            "Country": "United States",
+            "Year Founded": 2014
+        },
+        {
+            "Company Name": "Datorios",
+            "Category": "Infrastructure",
+            "Sub Category": "ETL/ELT/Data Transformation",
+            "URL": "https://datorios.com/",
+            "Description": "Datorios is a unified data operations platform that aims to let users rapidly and dynamically build, adjust, and deploy their business and operational pipelines, using all data sources, reducing the dependency on data engineering, DevOps, and outside contractors leveraging the analyst and data privacy. Using no-code visual dev tools, the Datorios product seeks to assist businesses in building and deploying dataflow infrastructures. Customers can build their own data pipelines to handle a variety of transformations, combining on-premises and cloud solutions with current processes and databases.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recmgkiWcXb8kOPMy"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Datorios_logo_hatpta.png",
+            "Sort Index": 9,
+            "Total Funding (in Millions)": 22,
+            "Country": "Israel"
+        },
+        {
+            "Company Name": "honeycomb.io",
+            "Category": "Infrastructure",
+            "Sub Category": "MGMT/Monitoring",
+            "URL": "https://www.honeycomb.io/",
+            "Description": "Honeycomb is an infrastructure monitoring startup that has built a cloud service for monitoring various layers of software that companies depend on to run applications. Built for engineers with operational responsibilities – software, infrastructure, platform, operations, DevOps, SRE – Honeycomb provides full stack observability. The product is designed from the ground up for debugging live production software, consuming event data from any source with any data model, and making collaboration a central part of problem-solving. The company was founded in 2016 and is based in San Francisco, California.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recfwnGgxh21FFXVH"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/honeycomb_wvnjr9.png",
+            "Sort Index": 19,
+            "Total Funding (in Millions)": 96.9,
+            "Country": "United States",
+            "Year Founded": 2016
+        },
+        {
+            "Company Name": "influxData",
+            "Category": "Infrastructure",
+            "Sub Category": "NewSQL Databases",
+            "URL": "https://www.influxdata.com/",
+            "Description": "InfluxData is a time series, metrics, and analytics database. It is targeted at use cases for DevOps, metrics, sensor data, and analytics. It offers an open-source server agent named Telegraf that helps customers collect metrics from your stacks, sensors, and systems. The company was founded in 2012 and is based in San Francisco, California.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recUE6a1qB83wlzbq"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Influx_Data_svgdex.svg",
+            "Sort Index": 8,
+            "Total Funding (in Millions)": 200.12,
+            "Country": "United States",
+            "Year Founded": 2012
+        },
+        {
+            "Company Name": "PagerDuty",
+            "Category": "Infrastructure",
+            "Sub Category": "MGMT/Monitoring",
+            "URL": "https://www.pagerduty.com/",
+            "Description": "PagerDuty offers alerting and incident tracking system that helps IT operations and DevOps engineers resolve critical errors in IT systems as quickly as possible. PagerDuty's operations performance platform helps companies increase reliability. By connecting people, systems, and data in a single view, PagerDuty delivers visibility and intelligence across global operations for effective incident resolution management.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recfwnGgxh21FFXVH"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/pagerduty_er8lzu.png",
+            "Sort Index": 18,
+            "Total Funding (in Millions)": 173.82,
+            "Country": "United States",
+            "Year Founded": 2009
+        },
+        {
+            "Company Name": "Moogsoft",
+            "Category": "Infrastructure",
+            "Sub Category": "MGMT/Monitoring",
+            "URL": "https://www.moogsoft.com/",
+            "Description": "Moogsoft develops AIOps technology that helps enterprise IT Ops and DevOps teams become faster, smarter and more effective. Moogsoft AIOps' real-time machine learning algorithms help teams remediate issues that impact their customers' experience by reducing operational noise (alert fatigue) across the production stack, proactively detecting Incidents and correlating events across the monitoring ecosystem, streamlining collaboration and workflow across teams and toolsets, and codifying knowledge to make operators smarter when encountering future incidents. The company was founded in 2011 and is based in San Francisco, California.\n",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recfwnGgxh21FFXVH"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/moogsoft_wnubsa.png",
+            "Sort Index": 12,
+            "Total Funding (in Millions)": 92.93,
+            "Country": "United States",
+            "Year Founded": 2011
+        },
+        {
+            "Company Name": "Spot",
+            "Category": "Cloud Operations",
+            "Sub Category": "Cloud Operations",
+            "URL": "https://www.spot.io/",
+            "Description": "",
+            "Linked Category": [
+                "recxdDH7aSqjZZA9b"
+            ],
+            "Linked SubCategory": [
+                "recfwnGgxh21FFXVH"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/moogsoft_wnubsa.png",
+            "Sort Index": 12,
+            "Total Funding (in Millions)": 92.93,
+            "Country": "United States"
+        }
+   ]
+}

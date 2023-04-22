@@ -57,7 +57,7 @@ function Header() {
                 <Link to="/security" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Cloud Security Landscape</Link>
               </li>
               <li>
-                <Link to="/management" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Cloud Management Landscape</Link>
+                <Link to="/management" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Cloud Operations Landscape</Link>
               </li>
               <li>
                 <Link to="/https://github.com/startuplandscape/startuplandscape.github.io" target="_blank" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">Contribute</Link>

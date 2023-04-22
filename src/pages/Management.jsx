@@ -9,12 +9,10 @@ import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
 // import Banner from '../partials/Banner';
 
-// import companies from '../data/companies.json';
-// import categories from '../data/categories.json';
-// import subcategories from '../data/subcategories.json';
+import companies from '../data/devops/companies.json';
 
 function Management() {
-  const data = [];
+  // const data = [];
   const columns = useMemo(
     () => [
       {
@@ -57,24 +55,6 @@ function Management() {
     []
   );
 
-  // const treeData = categories.categories.map(function (category) {
-  //   const allSubCategories = companies.companies
-  //     .filter(company => company.Category === category.Name)
-  //     .map(m => ({ name: m['Sub Category'] }));;
-
-  //   const uniqueChildren = allSubCategories.filter((a, i) => allSubCategories.findIndex((s) => a.name === s.name) === i);
-
-  //   return {
-  //     name: category.Name,
-  //     children: uniqueChildren
-  //   };
-  // });
-
-  // const data = {
-  //   name: 'AI/ML Landscape',
-  //   children: treeData
-  // };
-
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
@@ -95,14 +75,14 @@ function Management() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">Cloud Management Startup Landscape</h1>
+                <h1 className="h1">Cloud Operations Startup Landscape</h1>
                 <p className="text-lg text-gray-400 text-center">Optimize Your Cloud Operations: Discover the Next-Generation Cloud Management Startups with Us!</p>
               </div>
 
               <ThemeProvider theme={tableTheme}>
               <MaterialReactTable
                 columns={columns}
-                data={data}
+                data={companies.companies}
                 enableColumnResizing
                 enableGrouping
                 enableStickyHeader

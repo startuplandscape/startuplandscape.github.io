@@ -1,0 +1,49 @@
+{
+    "companies": [
+        {
+            "Company Name": "Dig Security",
+            "Category": "Cloud Security",
+            "Sub Category": "Cloud Security",
+            "URL": "https://dig.security/",
+            "Description": "\n",
+            "Linked Category": [
+                "recrAqXmw72gb32V5"
+            ],
+            "Linked SubCategory": [
+                "recpg9ydFPHPhB4Jc"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Institute_for_Ethical_AI_vxdlcm.png",
+            "Sort Index": 29
+        },
+        {
+            "Company Name": "Gem Security",
+            "Category": "Cloud Security",
+            "Sub Category": "Cloud Security",
+            "URL": "https://gem.security/",
+            "Description": "\n",
+            "Linked Category": [
+                "recrAqXmw72gb32V5"
+            ],
+            "Linked SubCategory": [
+                "recpg9ydFPHPhB4Jc"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Institute_for_Ethical_AI_vxdlcm.png",
+            "Sort Index": 29
+        },
+        {
+            "Company Name": "Opus Security",
+            "Category": "Cloud Security",
+            "Sub Category": "Cloud Security",
+            "URL": "https://opus.security/",
+            "Description": "\n",
+            "Linked Category": [
+                "recrAqXmw72gb32V5"
+            ],
+            "Linked SubCategory": [
+                "recpg9ydFPHPhB4Jc"
+            ],
+            "Processed Logo URL": "https://res.cloudinary.com/dl0nekgpw/image/upload/MAD%202023/Institute_for_Ethical_AI_vxdlcm.png",
+            "Sort Index": 29
+        }
+    ]
+}

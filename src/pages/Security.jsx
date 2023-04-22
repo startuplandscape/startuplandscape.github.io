@@ -9,12 +9,12 @@ import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
 // import Banner from '../partials/Banner';
 
-// import companies from '../data/companies.json';
-// import categories from '../data/categories.json';
-// import subcategories from '../data/subcategories.json';
+import companies from '../data/security/companies.json';
+// import categories from '../data/security/categories.json';
+// import subcategories from '../data/security/subcategories.json';
 
 function Security() {
-  const data = [];
+  // const data = [];
   const columns = useMemo(
     () => [
       {
@@ -57,24 +57,6 @@ function Security() {
     []
   );
 
-  // const treeData = categories.categories.map(function (category) {
-  //   const allSubCategories = companies.companies
-  //     .filter(company => company.Category === category.Name)
-  //     .map(m => ({ name: m['Sub Category'] }));;
-
-  //   const uniqueChildren = allSubCategories.filter((a, i) => allSubCategories.findIndex((s) => a.name === s.name) === i);
-
-  //   return {
-  //     name: category.Name,
-  //     children: uniqueChildren
-  //   };
-  // });
-
-  // const data = {
-  //   name: 'AI/ML Landscape',
-  //   children: treeData
-  // };
-
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
@@ -102,7 +84,7 @@ function Security() {
               <ThemeProvider theme={tableTheme}>
               <MaterialReactTable
                 columns={columns}
-                data={data}
+                data={companies.companies}
                 enableColumnResizing
                 enableGrouping
                 enableStickyHeader

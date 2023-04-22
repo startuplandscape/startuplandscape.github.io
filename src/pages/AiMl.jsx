@@ -9,7 +9,7 @@ import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
 // import Banner from '../partials/Banner';
 
-import companies from '../data/companies.json';
+import companies from '../data/aiml/companies.json';
 // import categories from '../data/categories.json';
 // import subcategories from '../data/subcategories.json';
 
